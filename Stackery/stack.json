@@ -3,11 +3,11 @@
     {
       "id": "93ac1910",
       "type": "topic",
-      "x": 135,
-      "y": 70,
+      "x": 140,
+      "y": 130,
       "width": 100,
       "height": 30,
-      "name": "kontrollpunkt",
+      "name": "testMessager",
       "wires": [
         [
           "ad5d861c"
@@ -17,8 +17,8 @@
     {
       "id": "ad5d861c",
       "type": "function",
-      "x": 455,
-      "y": 150,
+      "x": 440,
+      "y": 240,
       "width": 100,
       "height": 30,
       "name": "logger",
